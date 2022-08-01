@@ -1,6 +1,5 @@
-package com.nuc.mapreduce.mapreduceDemo;
+package com.nuc.mapreduce.wordCountDemo;
 
-import org.apache.hadoop.io.WritableComparable;
 import org.apache.hadoop.io.WritableComparator;
 
 import java.util.Objects;

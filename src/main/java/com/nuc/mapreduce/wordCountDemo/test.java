@@ -1,6 +1,5 @@
-package com.nuc.mapreduce.mapreduceDemo;
+package com.nuc.mapreduce.wordCountDemo;
 
-import org.apache.hadoop.conf.Configurable;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
 
